@@ -1,2 +1,3 @@
 # RR_web_dev_marieclaire
-Text repository
+Text repository Web Dev 101 class
+
